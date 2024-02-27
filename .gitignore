@@ -1,2 +1,3 @@
 *.afa
 *.aft
+**/*.DS_Store
